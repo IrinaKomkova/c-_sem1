@@ -1,0 +1,30 @@
+C:\Users\maxko\SC\DZ1\h_task1\bin\Debug\net6.0\h_task1.exe
+C:\Users\maxko\SC\DZ1\h_task1\bin\Debug\net6.0\h_task1.deps.json
+C:\Users\maxko\SC\DZ1\h_task1\bin\Debug\net6.0\h_task1.runtimeconfig.json
+C:\Users\maxko\SC\DZ1\h_task1\bin\Debug\net6.0\h_task1.dll
+C:\Users\maxko\SC\DZ1\h_task1\bin\Debug\net6.0\h_task1.pdb
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.csproj.AssemblyReference.cache
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.AssemblyInfoInputs.cache
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.AssemblyInfo.cs
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.csproj.CoreCompileInputs.cache
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.dll
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\refint\h_task1.dll
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.pdb
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\h_task1.genruntimeconfig.cache
+C:\Users\maxko\SC\DZ1\h_task1\obj\Debug\net6.0\ref\h_task1.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\bin\Debug\net6.0\h_task1.exe
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\bin\Debug\net6.0\h_task1.deps.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\bin\Debug\net6.0\h_task1.runtimeconfig.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\bin\Debug\net6.0\h_task1.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\bin\Debug\net6.0\h_task1.pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.csproj.AssemblyReference.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.AssemblyInfoInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.AssemblyInfo.cs
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.csproj.CoreCompileInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\refint\h_task1.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\h_task1.genruntimeconfig.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ1\h_task1\obj\Debug\net6.0\ref\h_task1.dll
